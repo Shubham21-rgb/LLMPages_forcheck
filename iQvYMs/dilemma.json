@@ -1,0 +1,5 @@
+{
+  "people": 4,
+  "case_1": {"swerve": true, "reason": "Minimize harm by choosing the option with fewer casualties."},
+  "case_2": {"swerve": false, "reason": "The value of life should not be determined by past actions; the child represents future potential."}
+}
